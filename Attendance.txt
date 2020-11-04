@@ -1,0 +1,56 @@
+Tue Nov  3 10:41:19 IST 2020
+
+Attendance for Data Structure
+
+
+Name  =  Shijagurumayum Nganaremba Sharma
+Roll  =  1901CS0207
+
+Name  =  Khumukcham Jenitkumar
+Roll  =  1901CS0208
+
+Name  =  Takhellambam Babylon Devi
+Roll  =  1901CS0203
+
+Name  =  Okram Bidyarani Devi 
+Roll  =  1901CS0112 
+
+Name  =  Oinam roshni devi
+Roll  =  1901CS0109
+
+Name  =  Tony waikhom
+Roll  =  1901CS0104
+
+Name  =  Neroda Rajkumari
+Roll  =  1901CS0106
+
+Name  =  Pritam Haobam
+Roll  =  1901CS0116
+
+Name  =  Tekcham chand singh
+Roll  =  1901CS0115
+
+Name  =  KANGUJAM SUNDER SINGH
+Roll  =  1901CS0202
+
+Name  =  Kangujam Shyam Singh
+Roll  =  1901CS0201
+
+Name  =  Ngaspam Nganthoiba meitei
+Roll  =  1901CS0111
+
+Name  =  Thokchom Roshan Singh
+Roll  =  1901CS0114
+
+Name  =  Stephen abujam
+Roll  =  1901CS0110
+
+Name  =  Robinson Sarangthem
+Roll  =  1901cs0210
+
+Name  =  Oinam Manoj Singh
+Roll  =  1901CS0113
+
+Name  =  Maimom Amarjit Singh
+Roll  =  1901CS0119
+
