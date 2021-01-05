@@ -55,7 +55,7 @@ if(!isset($_SESSION))
 
                 if (isset($_SESSION['name']) && isset($_SESSION['roll'])) {
                     $user = $_SESSION["name"];
-                    echo "<article><b>Hi  <h5> $_SESSION[name]! </h5> <br><br>
+                    echo "<article><b>Hi  <h5> $_SESSION[name]! </h5> <br><br> You have already submitted your Attendance.
                     </article>";
                 } else {
                     //
