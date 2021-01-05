@@ -35,7 +35,7 @@ if(!isset($_SESSION))
         </script>
     </head>
     <body>
-    <h3 class="head">Attendance for Data Structures and Algorithms-I</h3>
+    <h3 class="head">Attendance</h3>
         <div align="center">
 
         <img src="mtulogo.jpeg" alt="Manipur Technical University"/>
@@ -55,7 +55,8 @@ if(!isset($_SESSION))
 
                 if (isset($_SESSION['name']) && isset($_SESSION['roll'])) {
                     $user = $_SESSION["name"];
-                    echo "<article><b>Hi  <h5> $_SESSION[name]! </h5> <br><br> You have already submitted. You can't submit anymore. Please don't spam</b>.</article>";
+                    echo "<article><b>Hi  <h5> $_SESSION[name]! </h5> <br><br>
+                    </article>";
                 } else {
                     //
                 }
