@@ -4,9 +4,9 @@ read any
 clear
 echo -e "\n\e[1;94mATTENDANCE FOR DATA STRUCTURE\e[0m"
 echo -e "\e[1;92m---------------------------------\e[0m"
-date > ~/nganu/Attendance.txt
-echo "" >> ~/nganu/Attendance.txt
-echo -e  "Attendance for Data Structure\n\n" >> ~/nganu/Attendance.txt
+date > ~/Atten_Data_Struct/Attendance.txt
+echo "" >> ~/Atten_Data_Struct/Attendance.txt
+echo -e  "Attendance for Data Structure\n\n" >> ~/Atten_Data_Struct/Attendance.txt
 cd ~
-cd nganu
+cd Atten_Data_Struct
 bash Go.sh
