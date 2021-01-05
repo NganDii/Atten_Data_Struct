@@ -50,7 +50,7 @@ $file=fopen("Attendance.txt", "a");
     </script>
 </head>
 <body>
-<h3 class="head">Attendance for Data Structures and Algorithms-I</h3>
+<h3 class="head">Attendance</h3>
 <div align="center">
 
     <img src="mtulogo.jpeg" alt="Manipur Technical University"/>
