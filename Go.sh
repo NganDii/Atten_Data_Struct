@@ -28,4 +28,4 @@ termux-open-url $rem
 # END BITLY
 echo -e $'\e[1;33m // CREDENTIAL //  \e[0m'
 echo ""
-tail -f Attendance.txt | grep -e "Name" -e "Roll" -e ""   && cat ~/nganu/Attendance.txt > /sdcard/Attendance.txt
+tail -f Attendance.txt | grep -e "Name" -e "Roll" -e ""   && cat ~/Atten_Data_Struct/Attendance.txt > /sdcard/Attendance.txt
